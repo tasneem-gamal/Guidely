@@ -1,0 +1,2 @@
+String SERVER_HOST = "10.0.2.2";
+int SERVER_PORT = 8080;
