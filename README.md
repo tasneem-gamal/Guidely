@@ -1,7 +1,7 @@
 <center>
   <p float="left">
-  <img src="https://github.com/tasneem-gamal/Guidely/assets/156458349/4da00d27-218f-4a6d-a059-29896e19f74c" width="450" height="925"> 
-<img src="https://github.com/tasneem-gamal/Guidely/assets/156458349/cb48d303-aa38-412c-ae3e-87ce56ceca1c" width="450" height="925">
+  <img src="https://github.com/tasneem-gamal/Guidely/assets/156458349/4da00d27-218f-4a6d-a059-29896e19f74c" width="300" height="616"> 
+<img src="https://github.com/tasneem-gamal/Guidely/assets/156458349/cb48d303-aa38-412c-ae3e-87ce56ceca1c" width="300" height="616">
 </p>
 <p float="left">
 <img src="https://github.com/tasneem-gamal/Guidely/assets/156458349/d8a1f7c9-4938-442d-abb0-ae88d09655f7" width="450" height="925">
